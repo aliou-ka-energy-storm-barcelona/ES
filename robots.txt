@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aliou-ka-energy-storm-barcelona.github.io/ES/sitemap.xml
